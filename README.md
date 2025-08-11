@@ -87,7 +87,7 @@ flutter run
 ## 📁 Project Structure
 
 ```
-
+```markdown
 lib/
 ├── main.dart                          \# App entry point
 ├── screens/
