@@ -312,7 +312,7 @@ For support and queries:
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Your Name** - *Initial work* - [YourGitHub](https://github.com/Supriyo08)
 
 ## 🙏 Acknowledgments
 
@@ -325,5 +325,5 @@ For support and queries:
 
 **Version:** 1.0.0  
 **Last Updated:** December 2024  
-**Maintained by:** [Your Name/Organization]
+**Maintained by:** [Supriyo Maji]
 ```
