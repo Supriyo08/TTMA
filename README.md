@@ -312,7 +312,7 @@ For support and queries:
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/Supriyo08)
+- **Your Name** - *Initial work* - [supriyo Maji](https://github.com/Supriyo08)
 
 ## 🙏 Acknowledgments
 
